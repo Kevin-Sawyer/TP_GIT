@@ -1,3 +1,5 @@
 Voici une fonctionnalité de ma version mineure!
 
 Première modification!
+
+Modifications effecués avant le stash!

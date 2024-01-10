@@ -1,1 +1,3 @@
 Version mineure corrigé du premier bug!
+
+Modifications effecués avant le stash!
